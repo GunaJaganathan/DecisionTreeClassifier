@@ -1,0 +1,17 @@
+﻿Features,Type,Missing Values,Target
+A1,discrete,Yes,No
+A2,continuous,Yes,No
+A3,continuous,No,No
+A4,discrete,Yes,No
+A5,discrete,Yes,No
+A6,discrete,Yes,No
+A7,discrete,Yes,No
+A8,continuous,No,No
+A9,discrete,No,No
+A10,discrete,No,No
+A11,continuous,No,No
+A12,discrete,No,No
+A13,discrete,No,No
+A14,continuous,Yes,No
+A15,continuous,No,No
+A16,discrete,No,Yes
